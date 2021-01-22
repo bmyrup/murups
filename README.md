@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/murups/murups/_apis/build/status/bmyrup.murups?branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)](https://dev.azure.com/murups/murups/_build/latest?definitionId=1&branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
